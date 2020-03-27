@@ -1,0 +1,24 @@
+[33mcommit 8f760480b695e475e2f9721186bd6898676cdaab[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Merge: 2dbf138 d3efb60
+Author: XanderNie <xxn0921@qq.com>
+Date:   Fri Mar 27 19:24:25 2020 +0800
+
+    Merge branch 'master' into dev
+
+[33mcommit d3efb6056913aad3bcd2f9d1c0b6c71f481160ed[m[33m ([m[1;32mmaster[m[33m)[m
+Author: XanderNie <xxn0921@qq.com>
+Date:   Fri Mar 27 19:22:55 2020 +0800
+
+    master新提交
+
+[33mcommit 2dbf138b19e8ad3a195bfbc78cdf149262e323c9[m
+Author: XanderNie <xxn0921@qq.com>
+Date:   Fri Mar 27 19:20:48 2020 +0800
+
+    dev提交
+
+[33mcommit f83000a676d0b64a3bb8023bc68529fe0faf8125[m
+Author: XanderNie <xxn0921@qq.com>
+Date:   Fri Mar 27 18:47:10 2020 +0800
+
+    提交信息描述
